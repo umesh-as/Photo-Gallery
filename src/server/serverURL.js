@@ -1,3 +1,3 @@
-const SERVERURL = "https://pgserver-oxk2.onrender.com"
+const SERVERURL = "https://pgserver-1.onrender.com/"
 
 export default SERVERURL
